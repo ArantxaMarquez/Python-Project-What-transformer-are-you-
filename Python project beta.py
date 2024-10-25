@@ -150,7 +150,7 @@ elif negative_trait == ("Stubborn"):
 #receive score - character 
 
 if (optimusprime < megatron) and (bumblebee > megatron):
-    print("ypu are not a deception ")
+    print("you are not a deception ")
 elif (optimusprime > megatron) and (bumblebee > megatron):
     print("you are not a deception")
 elif (optimusprime > megatron):
